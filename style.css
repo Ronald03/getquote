@@ -1,0 +1,151 @@
+body{
+  /* 
+  https://images.unsplash.com/photo-1455295299322-3aba0ba23ea3?dpr=1.5&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1000&amp;q=80&amp;cs=tinysrgb&amp;crop=
+  */
+  background-image: url("https://images.unsplash.com/uploads/14126758789351371c7ec/aa322c2d?dpr=1&auto=compress,format&fit=crop&w=1053&h=&q=80&cs=tinysrgb&crop=");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.container{
+  width: 52%;
+  background-color: ;
+}
+/*************************************/
+.quoteContainer{
+  border-radius: 5px;
+  margin-top: 14em;
+  padding-bottom:10px ;
+  border-color:transparent;
+  background-image: url("https://i.imgur.com/aJa8TJq.jpg");
+}
+/**** Div to display message ****/
+.messege {
+  width: 100%;
+  word-wrap: break-word;
+  overflow: ;
+  background-color: ;
+  margin-left:;
+  
+}
+/*  Styling the Quotes when they appears*/
+.messege #theQuote{
+  font-size:25px;
+  font-weight:600;
+  color: brown;
+  font-family:'Griffy', cursive;
+  letter-spacing:2px;
+  line-height:;
+}
+
+.author{
+  font-size:20px;
+  font-family:'Harmattan', sans-serif;
+  letter-spacing: 2px;
+  background-color:;
+  text-align: center;
+  padding-top:20px;
+  color:brown;
+  
+}
+
+/**** Quote Mark ****/ 
+.quoteMarkLeft{
+  margin-top:20px;
+  background-color: ;
+  font-size: 35px;
+  color: brown;
+}
+quoteMark i{
+  float:left;
+}
+.quoteMarkRight{
+  margin-top:15px;
+  padding-right: 10px;
+  background-color: ;
+  font-size: 35px;
+  color: brown;
+}
+.quoteMarkRight i{
+  float:right;
+}
+
+/********** Twiiter *******/
+.tweet{
+  font-size: 35px;
+  background-color:;
+  padding-left:40px;
+  color:brown;
+}
+
+/************ Button **********/
+.getQ{
+  
+  margin-top: 30px;
+  background-color: ;
+  border:2px solid #ffffff; 
+  padding:0px;
+  
+}
+.getQ button{
+  background-color:transparent;
+  font-weight:700;
+  color:white;
+  letter-spacing:2px;
+}
+.getQ button:hover{
+  color:;
+  opacity: 0.2;
+  
+}
+
+/************************************/
+#cite{
+  width: 50%;
+  /*height: 100%;*/
+  background-color: transparent;
+  margin-top:55%;
+  margin-left:25%;
+  font-size: 25px;
+  position:fixed;
+}
+.reference p{
+  text-align:right;
+  padding-right: 3px;
+  color: white;
+}
+.reference span{
+  font-size: 15px;
+}
+.social{
+  float:left;
+  padding-left: 5px;
+}
+.social a{
+  color: white;
+}
+.subSocial{
+  margin-left: 10px;
+}
+
+
+/***** GetQuote Button ******/
+/*#getQuote{
+  border: 2px solid #ffffff;
+  font-size: 20px;
+  color:#ffffff;
+  font-weight:700;
+  text-align: center;
+}
+#getQuote:hover{
+  opacity: 0.5;
+}*/
+
+
+
+
+
+
+
