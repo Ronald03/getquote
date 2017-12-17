@@ -2,7 +2,7 @@ body{
   /* 
   https://images.unsplash.com/photo-1455295299322-3aba0ba23ea3?dpr=1.5&amp;auto=format&amp;fit=crop&amp;w=1500&amp;h=1000&amp;q=80&amp;cs=tinysrgb&amp;crop=
   */
-  background-image: url("https://images.unsplash.com/uploads/14126758789351371c7ec/aa322c2d?dpr=1&auto=compress,format&fit=crop&w=1053&h=&q=80&cs=tinysrgb&crop=");
+  background-image:url("https://images.unsplash.com/uploads/14126758789351371c7ec/aa322c2d?dpr=1&auto=compress,format&fit=crop&w=1053&h=&q=80&cs=tinysrgb&crop=");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
